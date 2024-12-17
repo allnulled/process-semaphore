@@ -1,0 +1,12 @@
+{
+  "name": "@allnulled/process-semaphore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process-semaphore.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [],
+  "author": "allnulled",
+  "license": "WTFPL"
+}

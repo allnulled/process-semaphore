@@ -22,5 +22,3 @@ Error: listen EADDRINUSE: address already in use :::3000
     at listenInCluster (node:net:1799:12)
     at Server.listen (node:net:1887:7)
 ```
-
-# process-semaphore
